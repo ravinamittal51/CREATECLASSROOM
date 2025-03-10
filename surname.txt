@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 
 k now qz
+=======
+surname is mittal
+ok done now 
+>>>>>>> Stashed changes
